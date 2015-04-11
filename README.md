@@ -12,7 +12,8 @@ graphs.
 
 I have done this on a Windows 8, using R Studio.
 
-The four plots that you will need to construct are shown below. 
+The four plots that I have hopefully corresponds to these, barring 
+margin and font size differences. 
 
 
 ### Plot 1
